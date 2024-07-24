@@ -30,7 +30,7 @@ Carbon Efficiency: The amount of carbon dioxide equivalent (CO2e) emitted per US
 
 ### Deliverables:
 * Software Carbon Efficiency Rating (SCER) Standard: Development and publication of a standardized SCER system that can assess and rate the carbon efficiency of software products.
-* Green Software Certification Lab (GSCL): Detailed specification of the lab so that organizations can implement their labs based on the specification.
+* Green Software Certification Lab (GSCL): Detailed specification of the lab so that organizations can implement their labs based on the specification and hosted by GSF.
 * Documentation and Guidelines: Comprehensive documentation and guidelines on using the SCER standard are available as reference materials for the community.
 * Community Engagement Initiatives: Initiatives to engage the broader software development and environmental communities, such as webinars, forums, and collaborative projects.
 
